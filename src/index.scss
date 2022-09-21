@@ -58,9 +58,7 @@ body {
     cursor: pointer;
     justify-content: center;
     flex: 1;
-    @media(max-width:600px){
-      flex: 1 1 50%;
-    }
+    
     
 
     &:hover {
